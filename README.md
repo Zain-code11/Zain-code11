@@ -1,9 +1,7 @@
 <p align="center">
 <<<<<<< HEAD
-  <img src="IMG_20260119_190223_637.png" alt="Zain Hassan Banner" width="100">
-=======
-  <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" style="width:700">
->>>>>>> 6f70a09 (.)
+  <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" style="width:400">
+
 </p>
 
 <h1 align="center">Hi, I'm Zain Hassan 👋</h1>
