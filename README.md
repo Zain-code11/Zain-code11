@@ -20,11 +20,11 @@ Building clean, scalable & user-focused web applications.
 
 I'm a Full Stack MERN Developer passionate about building modern web applications with clean architecture and scalable backend solutions.
 
-- 🎓 BS Computer Science (2025)
-- 🏛️ Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
-- 🌱 Currently learning advanced backend development and software architecture
-- 💡 Interested in REST APIs, Clean Architecture and modern web technologies
-- 🚀 Open to learning new technologies and building impactful projects
+-  BS Computer Science (2025)
+-  Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
+-  Currently learning advanced backend development and software architecture
+-  Interested in REST APIs, Clean Architecture and modern web technologies
+-  Open to learning new technologies and building impactful projects
 
 ---
 
@@ -58,12 +58,12 @@ A full-stack MERN application that helps users plan trips, manage expenses, trac
 
 ### Key Features
 
-- ✈️ Trip Planning
-- 💰 Expense Management
-- 📦 Packing Checklist
-- 📊 Dashboard Analytics
-- 🔐 JWT Authentication
-- 📱 Responsive Design
+-  Trip Planning
+-  Expense Management
+-  Packing Checklist
+-  Dashboard Analytics
+-  JWT Authentication
+-  Responsive Design
 
 ---
 
