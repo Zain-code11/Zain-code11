@@ -1,13 +1,9 @@
-<<<<<<< HEAD
+
 <p align="center">
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-  <img  src="high-level-description-a-premium-github-_T9gi8bg6XkCer9SDfD8Maw_8jJi13S4TjybzjZnPGoynQ.jpg" alt="Zain Hassan Banner" style="width:700">
->>>>>>> 6f70a09 (.)
-=======
- 
->>>>>>> cec2a108684e9a215a56c1aba707ce6566110e63
+  <img  src="high-level-description-a-premium-github-_T9gi8bg6XkCer9SDfD8Maw_8jJi13S4TjybzjZnPGoynQ.jpg" alt="Zain Hassan Banner" width:200>
 </p>
 =======
 >>>>>>> 6ebb994294c8e9fdcaf1233ddcba0d1dfce5b356
