@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8,6 +9,8 @@
  
 >>>>>>> cec2a108684e9a215a56c1aba707ce6566110e63
 </p>
+=======
+>>>>>>> 6ebb994294c8e9fdcaf1233ddcba0d1dfce5b356
 
 # About
 
