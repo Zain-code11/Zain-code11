@@ -1,92 +1,128 @@
-<div align="center">
-
-# Hi, I'm Zain Hassan 👋
-
-### Full Stack MERN Developer
-
-Building clean, scalable & user-focused web applications.
-
-<p>
-  <a href="https://www.linkedin.com/in/zain-hassan-399118399/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Zain Hassan Banner" width="100%">
 </p>
 
-</div>
+<h1 align="center">Hi, I'm Zain Hassan 👋</h1>
+
+<p align="center">
+<b>Full Stack MERN Developer</b>
+</p>
+
+<p align="center">
+Building scalable web applications with clean architecture and modern technologies.
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# About
 
-I'm a Full Stack MERN Developer passionate about building modern web applications with clean architecture and scalable backend solutions.
+I'm a Full Stack MERN Developer passionate about building modern, scalable and user-focused web applications.
 
--  BS Computer Science (2025)
--  Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
--  Currently learning advanced backend development and software architecture
--  Interested in REST APIs, Clean Architecture and modern web technologies
--  Open to learning new technologies and building impactful projects
+I enjoy solving real-world problems through clean code, RESTful APIs and modern JavaScript technologies while following software engineering best practices.
+
+- 🎓 BS Computer Science (2025)
+- 🏛️ Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
+- 📍 Pakistan
+- 💼 Interested in Backend Development, Clean Architecture and Full Stack MERN Applications
+- 🌱 Currently learning Docker, System Design and advanced backend concepts
 
 ---
 
-## 🛠️ Tech Stack
+# What I Do
+
+- Build Full Stack MERN Applications
+- Design RESTful APIs
+- Develop Responsive User Interfaces
+- Implement JWT Authentication
+- Follow Clean Architecture Principles
+- Write Clean, Maintainable and Scalable Code
+
+---
+
+# Tech Stack
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+React • JavaScript • HTML • CSS • Tailwind CSS
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+Node.js • Express.js • REST APIs • JWT Authentication
+
+### Database
+
+MongoDB • Mongoose
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+Git • GitHub • VS Code • Postman
 
 ---
 
-## 🚀 Featured Project
+# Featured Project
 
-### TripNest – Smart Travel Planner
+## TripNest — Smart Travel Planner
 
-A full-stack MERN application that helps users plan trips, manage expenses, track budgets and organize packing checklists.
+TripNest is a full-stack MERN application that simplifies travel planning by combining trip management, expense tracking and packing organization into one platform.
 
-### Key Features
+### Core Features
 
--  Trip Planning
--  Expense Management
--  Packing Checklist
--  Dashboard Analytics
--  JWT Authentication
--  Responsive Design
+- Trip Planning
+- Expense Management
+- Budget Tracking
+- Packing Checklist
+- JWT Authentication
+- Dashboard Analytics
+- Dark / Light Theme
+- Responsive Design
 
 ---
 
-## 📈 GitHub Stats
+# Featured Repositories
+
+### 🚀 TripNest
+Smart travel planning platform built with the MERN stack featuring trip planning, expense management and packing checklist management.
+
+### 🌐 Portfolio *(Coming Soon)*
+A modern developer portfolio showcasing projects, skills and experience.
+
+### 💰 Expense Tracker *(Coming Soon)*
+A web application for managing personal expenses and tracking budgets.
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zain-code11&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zain-code11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-code11&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-code11&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# Currently Learning
 
-- 💼 LinkedIn: https://www.linkedin.com/in/zain-hassan-399118399/
+- Clean Architecture
+- Advanced Backend Development
+- Docker
+- System Design
+- TypeScript
 
 ---
 
-<div align="center">
+# Connect
 
-⭐ Thanks for visiting my profile!
+**LinkedIn**
 
-</div>
+https://www.linkedin.com/in/zain-hassan-399118399/
+
+---
+
+<p align="center">
+
+### "Build with purpose. Keep it simple."
+
+</p>
