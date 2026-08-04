@@ -1,21 +1,13 @@
 <p align="center">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <img  src="high-level-description-a-premium-github-_T9gi8bg6XkCer9SDfD8Maw_8jJi13S4TjybzjZnPGoynQ.jpg" alt="Zain Hassan Banner" style="width:700">
 >>>>>>> 6f70a09 (.)
+=======
+ 
+>>>>>>> cec2a108684e9a215a56c1aba707ce6566110e63
 </p>
-
-<h1 align="center">Hi, I'm Zain Hassan 👋</h1>
-
-<p align="center">
-<b>Full Stack MERN Developer</b>
-</p>
-
-<p align="center">
-Building scalable web applications with clean architecture and modern technologies.
-</p>
-
----
 
 # About
 
