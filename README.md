@@ -1,12 +1,8 @@
 
 <p align="center">
-<<<<<<< HEAD
-<<<<<<< HEAD
 =======
   <img  src="high-level-description-a-premium-github-_T9gi8bg6XkCer9SDfD8Maw_8jJi13S4TjybzjZnPGoynQ.jpg" alt="Zain Hassan Banner" width:200>
 </p>
-=======
->>>>>>> 6ebb994294c8e9fdcaf1233ddcba0d1dfce5b356
 
 # About
 
