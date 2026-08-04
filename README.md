@@ -2,17 +2,6 @@
   <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" style="width:200">
 
 </p>
-
-<h1 align="center">Hi, I'm Zain Hassan 👋</h1>
-
-<p align="center">
-<b>Full Stack MERN Developer</b>
-</p>
-
-<p align="center">
-Building scalable web applications with clean architecture and modern technologies.
-</p>
-
 ---
 
 # About
