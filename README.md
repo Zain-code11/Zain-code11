@@ -1,6 +1,3 @@
-<p align="center">
-  <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" width:100px>
-</p>
 
 # About
 
