@@ -1,6 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
-  <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" style="width:400">
+  <img  src="high-level-description-a-premium-github-_03Gwx0SYVKeMgjrezBpNqA_u14_6mNXSPG27atk4fgC6Q.jpg" alt="Zain Hassan Banner" style="width:200">
 
 </p>
 
