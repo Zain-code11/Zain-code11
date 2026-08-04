@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Zain Hassan Banner" width="100%">
+  <img src="IMG_20260119_190223_637.png" alt="Zain Hassan Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Zain Hassan 👋</h1>
@@ -20,11 +20,11 @@ I'm a Full Stack MERN Developer passionate about building modern, scalable and u
 
 I enjoy solving real-world problems through clean code, RESTful APIs and modern JavaScript technologies while following software engineering best practices.
 
-- 🎓 BS Computer Science (2025)
-- 🏛️ Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
-- 📍 Pakistan
-- 💼 Interested in Backend Development, Clean Architecture and Full Stack MERN Applications
-- 🌱 Currently learning Docker, System Design and advanced backend concepts
+-  BS Computer Science (2025)
+-  Khwaja Fareed University of Engineering & Information Technology (KFUEIT), Rahim Yar Khan
+-  Pakistan
+-  Interested in Backend Development, Clean Architecture and Full Stack MERN Applications
+-  Currently learning Docker, System Design and advanced backend concepts
 
 ---
 
