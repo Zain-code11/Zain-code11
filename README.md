@@ -1,5 +1,5 @@
 <p align="center">
-  <img s src="IMG_20260119_190223_637.png" alt="Zain Hassan Banner" style="max-width:900px; width:100%;">
+  <img  src="IMG_20260119_190223_637.png" alt="Zain Hassan Banner" style="width:700">
 </p>
 
 <h1 align="center">Hi, I'm Zain Hassan 👋</h1>
